@@ -1,7 +1,8 @@
 class PagesController < ApplicationController
   def index
   end
-
+  def michaeldharris
+  end
   def thowell
   end
 
