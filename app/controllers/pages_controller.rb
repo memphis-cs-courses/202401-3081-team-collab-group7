@@ -2,6 +2,8 @@ class PagesController < ApplicationController
   def index
   end
 
+  def thowell
+  end
 
   def lwhinkle
   end
